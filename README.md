@@ -1,15 +1,13 @@
 #3 - Three.js
 
-## Giới thiệu
-
-## Cài đặt
+## Install
 
 ```bash
 # clone repo
-git clone https://github.com/minhchuongqt/vct-3-threejs
+git clone https://github.com/minhchuongqt/threejs.git
 
 # install
-cd vct-3-threejs
+cd threejs
 npm install
 
 # start server at http://localhost:1234/
